@@ -1,0 +1,7 @@
+D:\PROGRAMS OF C#\User_Input_Name\User_Input_Name\bin\Debug\User_Input_Name.exe.config
+D:\PROGRAMS OF C#\User_Input_Name\User_Input_Name\bin\Debug\User_Input_Name.exe
+D:\PROGRAMS OF C#\User_Input_Name\User_Input_Name\bin\Debug\User_Input_Name.pdb
+D:\PROGRAMS OF C#\User_Input_Name\User_Input_Name\obj\Debug\User_Input_Name.csproj.AssemblyReference.cache
+D:\PROGRAMS OF C#\User_Input_Name\User_Input_Name\obj\Debug\User_Input_Name.csproj.CoreCompileInputs.cache
+D:\PROGRAMS OF C#\User_Input_Name\User_Input_Name\obj\Debug\User_Input_Name.exe
+D:\PROGRAMS OF C#\User_Input_Name\User_Input_Name\obj\Debug\User_Input_Name.pdb

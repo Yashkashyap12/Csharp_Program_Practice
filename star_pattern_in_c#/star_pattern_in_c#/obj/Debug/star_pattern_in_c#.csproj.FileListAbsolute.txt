@@ -1,0 +1,7 @@
+D:\PROGRAMS OF C#\star_pattern_in_c#\star_pattern_in_c#\bin\Debug\star_pattern_in_c#.exe.config
+D:\PROGRAMS OF C#\star_pattern_in_c#\star_pattern_in_c#\bin\Debug\star_pattern_in_c#.exe
+D:\PROGRAMS OF C#\star_pattern_in_c#\star_pattern_in_c#\bin\Debug\star_pattern_in_c#.pdb
+D:\PROGRAMS OF C#\star_pattern_in_c#\star_pattern_in_c#\obj\Debug\star_pattern_in_c#.csproj.AssemblyReference.cache
+D:\PROGRAMS OF C#\star_pattern_in_c#\star_pattern_in_c#\obj\Debug\star_pattern_in_c#.csproj.CoreCompileInputs.cache
+D:\PROGRAMS OF C#\star_pattern_in_c#\star_pattern_in_c#\obj\Debug\star_pattern_in_c#.exe
+D:\PROGRAMS OF C#\star_pattern_in_c#\star_pattern_in_c#\obj\Debug\star_pattern_in_c#.pdb

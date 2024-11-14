@@ -1,0 +1,7 @@
+D:\PROGRAMS OF C#\Value_Parameters_Program\Value_Parameters_Program\bin\Debug\Value_Parameters_Program.exe.config
+D:\PROGRAMS OF C#\Value_Parameters_Program\Value_Parameters_Program\bin\Debug\Value_Parameters_Program.exe
+D:\PROGRAMS OF C#\Value_Parameters_Program\Value_Parameters_Program\bin\Debug\Value_Parameters_Program.pdb
+D:\PROGRAMS OF C#\Value_Parameters_Program\Value_Parameters_Program\obj\Debug\Value_Parameters_Program.csproj.AssemblyReference.cache
+D:\PROGRAMS OF C#\Value_Parameters_Program\Value_Parameters_Program\obj\Debug\Value_Parameters_Program.csproj.CoreCompileInputs.cache
+D:\PROGRAMS OF C#\Value_Parameters_Program\Value_Parameters_Program\obj\Debug\Value_Parameters_Program.exe
+D:\PROGRAMS OF C#\Value_Parameters_Program\Value_Parameters_Program\obj\Debug\Value_Parameters_Program.pdb

@@ -1,0 +1,7 @@
+D:\PROGRAMS OF C#\Calculator_Program_In_C#\Calculator_Program_In_C#\bin\Debug\Calculator_Program_In_C#.exe.config
+D:\PROGRAMS OF C#\Calculator_Program_In_C#\Calculator_Program_In_C#\bin\Debug\Calculator_Program_In_C#.exe
+D:\PROGRAMS OF C#\Calculator_Program_In_C#\Calculator_Program_In_C#\bin\Debug\Calculator_Program_In_C#.pdb
+D:\PROGRAMS OF C#\Calculator_Program_In_C#\Calculator_Program_In_C#\obj\Debug\Calculator_Program_In_C#.csproj.AssemblyReference.cache
+D:\PROGRAMS OF C#\Calculator_Program_In_C#\Calculator_Program_In_C#\obj\Debug\Calculator_Program_In_C#.csproj.CoreCompileInputs.cache
+D:\PROGRAMS OF C#\Calculator_Program_In_C#\Calculator_Program_In_C#\obj\Debug\Calculator_Program_In_C#.exe
+D:\PROGRAMS OF C#\Calculator_Program_In_C#\Calculator_Program_In_C#\obj\Debug\Calculator_Program_In_C#.pdb

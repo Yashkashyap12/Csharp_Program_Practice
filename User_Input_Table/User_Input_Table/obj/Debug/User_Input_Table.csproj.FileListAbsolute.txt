@@ -1,0 +1,7 @@
+D:\PROGRAMS OF C#\User_Input_Table\User_Input_Table\bin\Debug\User_Input_Table.exe.config
+D:\PROGRAMS OF C#\User_Input_Table\User_Input_Table\bin\Debug\User_Input_Table.exe
+D:\PROGRAMS OF C#\User_Input_Table\User_Input_Table\bin\Debug\User_Input_Table.pdb
+D:\PROGRAMS OF C#\User_Input_Table\User_Input_Table\obj\Debug\User_Input_Table.csproj.AssemblyReference.cache
+D:\PROGRAMS OF C#\User_Input_Table\User_Input_Table\obj\Debug\User_Input_Table.csproj.CoreCompileInputs.cache
+D:\PROGRAMS OF C#\User_Input_Table\User_Input_Table\obj\Debug\User_Input_Table.exe
+D:\PROGRAMS OF C#\User_Input_Table\User_Input_Table\obj\Debug\User_Input_Table.pdb

@@ -1,0 +1,7 @@
+D:\PROGRAMS OF C#\Option_Choosing_in_Cafe\Option_Choosing_in_Cafe\bin\Debug\Option_Choosing_in_Cafe.exe.config
+D:\PROGRAMS OF C#\Option_Choosing_in_Cafe\Option_Choosing_in_Cafe\bin\Debug\Option_Choosing_in_Cafe.exe
+D:\PROGRAMS OF C#\Option_Choosing_in_Cafe\Option_Choosing_in_Cafe\bin\Debug\Option_Choosing_in_Cafe.pdb
+D:\PROGRAMS OF C#\Option_Choosing_in_Cafe\Option_Choosing_in_Cafe\obj\Debug\Option_Choosing_in_Cafe.csproj.AssemblyReference.cache
+D:\PROGRAMS OF C#\Option_Choosing_in_Cafe\Option_Choosing_in_Cafe\obj\Debug\Option_Choosing_in_Cafe.csproj.CoreCompileInputs.cache
+D:\PROGRAMS OF C#\Option_Choosing_in_Cafe\Option_Choosing_in_Cafe\obj\Debug\Option_Choosing_in_Cafe.exe
+D:\PROGRAMS OF C#\Option_Choosing_in_Cafe\Option_Choosing_in_Cafe\obj\Debug\Option_Choosing_in_Cafe.pdb

@@ -1,0 +1,7 @@
+D:\Csharp_Programs_Practice\write_data_file\bin\Debug\write_data_file.exe.config
+D:\Csharp_Programs_Practice\write_data_file\bin\Debug\write_data_file.exe
+D:\Csharp_Programs_Practice\write_data_file\bin\Debug\write_data_file.pdb
+D:\Csharp_Programs_Practice\write_data_file\obj\Debug\write_data_file.csproj.AssemblyReference.cache
+D:\Csharp_Programs_Practice\write_data_file\obj\Debug\write_data_file.csproj.CoreCompileInputs.cache
+D:\Csharp_Programs_Practice\write_data_file\obj\Debug\write_data_file.exe
+D:\Csharp_Programs_Practice\write_data_file\obj\Debug\write_data_file.pdb

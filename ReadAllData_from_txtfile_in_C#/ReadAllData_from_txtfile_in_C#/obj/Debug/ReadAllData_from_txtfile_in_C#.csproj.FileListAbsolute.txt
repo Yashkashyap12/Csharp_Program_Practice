@@ -1,0 +1,7 @@
+D:\PROGRAMS OF C#\ReadAllData_from_txtfile_in_C#\ReadAllData_from_txtfile_in_C#\bin\Debug\ReadAllData_from_txtfile_in_C#.exe.config
+D:\PROGRAMS OF C#\ReadAllData_from_txtfile_in_C#\ReadAllData_from_txtfile_in_C#\bin\Debug\ReadAllData_from_txtfile_in_C#.exe
+D:\PROGRAMS OF C#\ReadAllData_from_txtfile_in_C#\ReadAllData_from_txtfile_in_C#\bin\Debug\ReadAllData_from_txtfile_in_C#.pdb
+D:\PROGRAMS OF C#\ReadAllData_from_txtfile_in_C#\ReadAllData_from_txtfile_in_C#\obj\Debug\ReadAllData_from_txtfile_in_C#.csproj.AssemblyReference.cache
+D:\PROGRAMS OF C#\ReadAllData_from_txtfile_in_C#\ReadAllData_from_txtfile_in_C#\obj\Debug\ReadAllData_from_txtfile_in_C#.csproj.CoreCompileInputs.cache
+D:\PROGRAMS OF C#\ReadAllData_from_txtfile_in_C#\ReadAllData_from_txtfile_in_C#\obj\Debug\ReadAllData_from_txtfile_in_C#.exe
+D:\PROGRAMS OF C#\ReadAllData_from_txtfile_in_C#\ReadAllData_from_txtfile_in_C#\obj\Debug\ReadAllData_from_txtfile_in_C#.pdb

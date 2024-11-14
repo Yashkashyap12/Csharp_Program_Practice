@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROGRAMS OF C#\\ReadAllData_from_txtfile_in_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86853F6C-B24A-4D80-BD70-3E2ADC1A2224}|ReadAllData_from_txtfile_in_C#\\ReadAllData_from_txtfile_in_C#.csproj|d:\\programs of c#\\readalldata_from_txtfile_in_c#\\readalldata_from_txtfile_in_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86853F6C-B24A-4D80-BD70-3E2ADC1A2224}|ReadAllData_from_txtfile_in_C#\\ReadAllData_from_txtfile_in_C#.csproj|solutionrelative:readalldata_from_txtfile_in_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROGRAMS OF C#\\ReadAllData_from_txtfile_in_C#\\ReadAllData_from_txtfile_in_C#\\Program.cs",
+              "RelativeDocumentMoniker": "ReadAllData_from_txtfile_in_C#\\Program.cs",
+              "ToolTip": "D:\\PROGRAMS OF C#\\ReadAllData_from_txtfile_in_C#\\ReadAllData_from_txtfile_in_C#\\Program.cs",
+              "RelativeToolTip": "ReadAllData_from_txtfile_in_C#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:30:10.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

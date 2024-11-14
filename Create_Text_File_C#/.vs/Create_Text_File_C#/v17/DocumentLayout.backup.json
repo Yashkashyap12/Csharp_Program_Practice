@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROGRAMS OF C#\\Create_Text_File_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25FA66DC-E991-4F13-89EB-3FF8110CE7C2}|Create_Text_File_C#\\Create_Text_File_C#.csproj|d:\\programs of c#\\create_text_file_c#\\create_text_file_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FA66DC-E991-4F13-89EB-3FF8110CE7C2}|Create_Text_File_C#\\Create_Text_File_C#.csproj|solutionrelative:create_text_file_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROGRAMS OF C#\\Create_Text_File_C#\\Create_Text_File_C#\\Program.cs",
+              "RelativeDocumentMoniker": "Create_Text_File_C#\\Program.cs",
+              "ToolTip": "D:\\PROGRAMS OF C#\\Create_Text_File_C#\\Create_Text_File_C#\\Program.cs",
+              "RelativeToolTip": "Create_Text_File_C#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:35:50.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\PROGRAMS OF C#\Create_Text_File_C#\Create_Text_File_C#\bin\Debug\Create_Text_File_C#.exe.config
+D:\PROGRAMS OF C#\Create_Text_File_C#\Create_Text_File_C#\bin\Debug\Create_Text_File_C#.exe
+D:\PROGRAMS OF C#\Create_Text_File_C#\Create_Text_File_C#\bin\Debug\Create_Text_File_C#.pdb
+D:\PROGRAMS OF C#\Create_Text_File_C#\Create_Text_File_C#\obj\Debug\Create_Text_File_C#.csproj.AssemblyReference.cache
+D:\PROGRAMS OF C#\Create_Text_File_C#\Create_Text_File_C#\obj\Debug\Create_Text_File_C#.csproj.CoreCompileInputs.cache
+D:\PROGRAMS OF C#\Create_Text_File_C#\Create_Text_File_C#\obj\Debug\Create_Text_File_C#.exe
+D:\PROGRAMS OF C#\Create_Text_File_C#\Create_Text_File_C#\obj\Debug\Create_Text_File_C#.pdb

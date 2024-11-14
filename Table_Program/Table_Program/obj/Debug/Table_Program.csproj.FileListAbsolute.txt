@@ -1,0 +1,7 @@
+D:\PROGRAMS OF C#\Table_Program\Table_Program\bin\Debug\Table_Program.exe.config
+D:\PROGRAMS OF C#\Table_Program\Table_Program\bin\Debug\Table_Program.exe
+D:\PROGRAMS OF C#\Table_Program\Table_Program\bin\Debug\Table_Program.pdb
+D:\PROGRAMS OF C#\Table_Program\Table_Program\obj\Debug\Table_Program.csproj.AssemblyReference.cache
+D:\PROGRAMS OF C#\Table_Program\Table_Program\obj\Debug\Table_Program.csproj.CoreCompileInputs.cache
+D:\PROGRAMS OF C#\Table_Program\Table_Program\obj\Debug\Table_Program.exe
+D:\PROGRAMS OF C#\Table_Program\Table_Program\obj\Debug\Table_Program.pdb

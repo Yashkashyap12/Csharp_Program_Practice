@@ -1,0 +1,7 @@
+D:\PROGRAMS OF C#\Switch_Case_Program\Switch_Case_Program\bin\Debug\Switch_Case_Program.exe.config
+D:\PROGRAMS OF C#\Switch_Case_Program\Switch_Case_Program\bin\Debug\Switch_Case_Program.exe
+D:\PROGRAMS OF C#\Switch_Case_Program\Switch_Case_Program\bin\Debug\Switch_Case_Program.pdb
+D:\PROGRAMS OF C#\Switch_Case_Program\Switch_Case_Program\obj\Debug\Switch_Case_Program.csproj.AssemblyReference.cache
+D:\PROGRAMS OF C#\Switch_Case_Program\Switch_Case_Program\obj\Debug\Switch_Case_Program.csproj.CoreCompileInputs.cache
+D:\PROGRAMS OF C#\Switch_Case_Program\Switch_Case_Program\obj\Debug\Switch_Case_Program.exe
+D:\PROGRAMS OF C#\Switch_Case_Program\Switch_Case_Program\obj\Debug\Switch_Case_Program.pdb

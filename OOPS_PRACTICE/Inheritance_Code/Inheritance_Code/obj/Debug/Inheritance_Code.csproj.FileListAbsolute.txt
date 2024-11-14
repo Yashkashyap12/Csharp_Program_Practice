@@ -1,0 +1,7 @@
+D:\PROGRAMS OF C#\OOPS_PRACTICE\Inheritance_Code\Inheritance_Code\bin\Debug\Inheritance_Code.exe.config
+D:\PROGRAMS OF C#\OOPS_PRACTICE\Inheritance_Code\Inheritance_Code\bin\Debug\Inheritance_Code.exe
+D:\PROGRAMS OF C#\OOPS_PRACTICE\Inheritance_Code\Inheritance_Code\bin\Debug\Inheritance_Code.pdb
+D:\PROGRAMS OF C#\OOPS_PRACTICE\Inheritance_Code\Inheritance_Code\obj\Debug\Inheritance_Code.csproj.AssemblyReference.cache
+D:\PROGRAMS OF C#\OOPS_PRACTICE\Inheritance_Code\Inheritance_Code\obj\Debug\Inheritance_Code.csproj.CoreCompileInputs.cache
+D:\PROGRAMS OF C#\OOPS_PRACTICE\Inheritance_Code\Inheritance_Code\obj\Debug\Inheritance_Code.exe
+D:\PROGRAMS OF C#\OOPS_PRACTICE\Inheritance_Code\Inheritance_Code\obj\Debug\Inheritance_Code.pdb

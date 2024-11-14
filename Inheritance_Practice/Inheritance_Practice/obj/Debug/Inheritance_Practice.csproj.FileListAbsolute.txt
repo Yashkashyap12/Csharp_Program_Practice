@@ -1,0 +1,7 @@
+D:\PROGRAMS OF C#\Inheritance_Practice\Inheritance_Practice\obj\Debug\Inheritance_Practice.csproj.AssemblyReference.cache
+D:\PROGRAMS OF C#\Inheritance_Practice\Inheritance_Practice\obj\Debug\Inheritance_Practice.csproj.CoreCompileInputs.cache
+D:\PROGRAMS OF C#\Inheritance_Practice\Inheritance_Practice\bin\Debug\Inheritance_Practice.exe.config
+D:\PROGRAMS OF C#\Inheritance_Practice\Inheritance_Practice\bin\Debug\Inheritance_Practice.exe
+D:\PROGRAMS OF C#\Inheritance_Practice\Inheritance_Practice\bin\Debug\Inheritance_Practice.pdb
+D:\PROGRAMS OF C#\Inheritance_Practice\Inheritance_Practice\obj\Debug\Inheritance_Practice.exe
+D:\PROGRAMS OF C#\Inheritance_Practice\Inheritance_Practice\obj\Debug\Inheritance_Practice.pdb

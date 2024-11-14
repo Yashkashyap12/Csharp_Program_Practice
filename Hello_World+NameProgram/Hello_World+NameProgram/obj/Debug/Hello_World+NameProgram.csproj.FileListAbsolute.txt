@@ -1,0 +1,7 @@
+D:\PROGRAMS OF C#\Hello_World+NameProgram\Hello_World+NameProgram\bin\Debug\Hello_World+NameProgram.exe.config
+D:\PROGRAMS OF C#\Hello_World+NameProgram\Hello_World+NameProgram\bin\Debug\Hello_World+NameProgram.exe
+D:\PROGRAMS OF C#\Hello_World+NameProgram\Hello_World+NameProgram\bin\Debug\Hello_World+NameProgram.pdb
+D:\PROGRAMS OF C#\Hello_World+NameProgram\Hello_World+NameProgram\obj\Debug\Hello_World+NameProgram.csproj.AssemblyReference.cache
+D:\PROGRAMS OF C#\Hello_World+NameProgram\Hello_World+NameProgram\obj\Debug\Hello_World+NameProgram.csproj.CoreCompileInputs.cache
+D:\PROGRAMS OF C#\Hello_World+NameProgram\Hello_World+NameProgram\obj\Debug\Hello_World+NameProgram.exe
+D:\PROGRAMS OF C#\Hello_World+NameProgram\Hello_World+NameProgram\obj\Debug\Hello_World+NameProgram.pdb

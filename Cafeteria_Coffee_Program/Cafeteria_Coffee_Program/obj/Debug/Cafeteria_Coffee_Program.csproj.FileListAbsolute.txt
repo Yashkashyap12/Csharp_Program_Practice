@@ -1,0 +1,7 @@
+D:\PROGRAMS OF C#\Cafeteria_Coffee_Program\Cafeteria_Coffee_Program\bin\Debug\Cafeteria_Coffee_Program.exe.config
+D:\PROGRAMS OF C#\Cafeteria_Coffee_Program\Cafeteria_Coffee_Program\bin\Debug\Cafeteria_Coffee_Program.exe
+D:\PROGRAMS OF C#\Cafeteria_Coffee_Program\Cafeteria_Coffee_Program\bin\Debug\Cafeteria_Coffee_Program.pdb
+D:\PROGRAMS OF C#\Cafeteria_Coffee_Program\Cafeteria_Coffee_Program\obj\Debug\Cafeteria_Coffee_Program.csproj.AssemblyReference.cache
+D:\PROGRAMS OF C#\Cafeteria_Coffee_Program\Cafeteria_Coffee_Program\obj\Debug\Cafeteria_Coffee_Program.csproj.CoreCompileInputs.cache
+D:\PROGRAMS OF C#\Cafeteria_Coffee_Program\Cafeteria_Coffee_Program\obj\Debug\Cafeteria_Coffee_Program.exe
+D:\PROGRAMS OF C#\Cafeteria_Coffee_Program\Cafeteria_Coffee_Program\obj\Debug\Cafeteria_Coffee_Program.pdb
